@@ -12,7 +12,7 @@
 
 *Terra Incognita
 
-*Create (in progress)
+*Create
 
 *Guard Villagers
 
