@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FrannDzs
+- 👋 Hi, I’m @FrannDzs I do Spanish translations of some Minecraft mods
 - 👀 I’m interested in Minecraft Modding
 - 🌱 I’m currently learning Spanish-English Translation
 - 💞️ I’m looking to collaborate on translation of projects of interest
