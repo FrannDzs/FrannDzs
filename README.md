@@ -16,6 +16,8 @@
 
 *Create
 
+*Create Craft & Additions
+
 *Guard Villagers
 
 *Farmer's Delight
